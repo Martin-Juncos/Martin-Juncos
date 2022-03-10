@@ -1,5 +1,7 @@
 <h1>👋 Hi, my name es Martin... </h1>
+
 ![helloworld](https://user-images.githubusercontent.com/8354821/157750321-439f165c-d42d-4f22-b54d-1f4014ca0186.gif)
+
 <h3>💬 About me..</h3>
 <p>For some years, as coordinator of the Software Technician, I got involved in the projects of my professors, this opened the wonderful world of Development, Professor of Technology and Computer Science, specialist in Higher Education and ICT, self-taught and eager to learn always new technologies, curious, responsible and with a lot of initiative, who always seeks to nurture himself personally and professionally. In this new paradigm you have to be prepared for this challenge, that is my motto.</p>
 <h3>🤓 My personal projects...</h3>

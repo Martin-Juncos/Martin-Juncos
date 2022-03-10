@@ -2,6 +2,9 @@
 
 ![helloworld](https://user-images.githubusercontent.com/8354821/157750321-439f165c-d42d-4f22-b54d-1f4014ca0186.gif)
 
+<h3>💬 About me..</h3>
+<p>For some years, as coordinator of the Software Technician, I got involved in the projects of my professors, this opened the wonderful world of Development, Professor of Technology and Computer Science, specialist in Higher Education and ICT, self-taught and eager to learn always new technologies, curious, responsible and with a lot of initiative, who always seeks to nurture himself personally and professionally. In this new paradigm you have to be prepared for this challenge, that is my motto.</p>
+
 <h3>🧠 I Know / Use</h3>
 
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
@@ -12,8 +15,7 @@
 <code><img height="35" src="https://e7.pngegg.com/pngimages/738/738/png-clipart-postgresql-database-logo-application-software-computer-software-mysql-logo-blue-text.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 
-
-   
+ 
 <span >
 <h3>📫  How to reach me</h3>
 <a href="https://www.linkedin.com/in/carlos-martin-juncos/" ><img width="5%" src="https://w7.pngwing.com/pngs/511/605/png-transparent-in-logo-linkedin-diduco-ab-icon-linkedin-blue-angle-text-thumbnail.png"> &nbsp;

@@ -25,9 +25,7 @@
 <code><img height="35" src="https://e7.pngegg.com/pngimages/738/738/png-clipart-postgresql-database-logo-application-software-computer-software-mysql-logo-blue-text.png"></code>
 <br/>
 
-  <p>
-  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=martinjuncos&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
- <p>
+
    
    <h3>📫  How to reach me</h3>
 <span >
@@ -35,4 +33,7 @@
 <a href="mailto:prof.mcjuncos@gmail.com" ><img width="5%" src="https://w7.pngwing.com/pngs/877/133/png-transparent-google-mail-logo-gmail-computer-icons-logo-email-gmail-angle-text-rectangle-thumbnail.png">
 </span>
   <br/> 
+    <p>
+  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=martinjuncos&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
+ <p>
  

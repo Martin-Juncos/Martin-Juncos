@@ -7,13 +7,13 @@
 <br/>
 <h3>🤓 My projet..</h3>
 
-<span align="right" >
+<span >
 <h4>Pokemons</h4>
-<a href="https://github.com/martinjuncos/PI-Pokemon.git" ><img align="right" width="300px" height="170px" src="https://wallpaperaccess.com/full/697708.jpg">
+<a href="https://github.com/martinjuncos/PI-Pokemon.git" ><img  width="200px" height="80px" src="https://wallpaperaccess.com/full/697708.jpg">
 <h4>Dogs</h4>
-<a href="https://github.com/martinjuncos/DOG-s.git" ><img align="right" width="300px" height="170px" src="https://st4.depositphotos.com/15754244/20856/i/1600/depositphotos_208565738-stock-photo-group-of-dogs-on-white.jpg">
+<a href="https://github.com/martinjuncos/DOG-s.git" ><img  width="200px" height="80px" src="https://st4.depositphotos.com/15754244/20856/i/1600/depositphotos_208565738-stock-photo-group-of-dogs-on-white.jpg">
   <h4>Coutries</h4>
-<a href="https://github.com/martinjuncos/COUNTRIES.git" ><img align="right" width="300px" height="170px" src="https://files.123freevectors.com/wp-content/uploads/new/map/054-free-vector-world-map-countries-word-cloud.jpg">
+<a href="https://github.com/martinjuncos/COUNTRIES.git" ><img  width="200px" height="80px" src="https://files.123freevectors.com/wp-content/uploads/new/map/054-free-vector-world-map-countries-word-cloud.jpg">
 </span>
 
 <br/>

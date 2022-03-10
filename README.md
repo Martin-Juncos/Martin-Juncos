@@ -14,6 +14,7 @@
 <a href="https://github.com/martinjuncos/COUNTRIES.git" ><img  width="200px" height="80px" src="https://files.123freevectors.com/wp-content/uploads/new/map/054-free-vector-world-map-countries-word-cloud.jpg">
 </span>
 <br/>
+<br/>
 <h3>🧠 I Know / Use...</h3>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
@@ -21,8 +22,9 @@
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="35" src="https://w1.pngwing.com/pngs/885/534/png-transparent-green-grass-nodejs-javascript-react-mean-angularjs-logo-symbol.png"></code>
 <code><img height="35" src="https://e7.pngegg.com/pngimages/738/738/png-clipart-postgresql-database-logo-application-software-computer-software-mysql-logo-blue-text.png"></code>
-<br/>   
-   <h3>📫 Contact me...</h3>
+<br/>
+<br/>
+<h3>📫 Contact me...</h3>
 <span >
 <a href="https://www.linkedin.com/in/carlos-martin-juncos/" ><img width="5%" src="https://w7.pngwing.com/pngs/511/605/png-transparent-in-logo-linkedin-diduco-ab-icon-linkedin-blue-angle-text-thumbnail.png"> &nbsp;
 <a href="mailto:prof.mcjuncos@gmail.com" ><img width="5%" src="https://w7.pngwing.com/pngs/877/133/png-transparent-google-mail-logo-gmail-computer-icons-logo-email-gmail-angle-text-rectangle-thumbnail.png">

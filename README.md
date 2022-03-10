@@ -14,6 +14,10 @@
 <code><img height="35" src="https://e7.pngegg.com/pngimages/738/738/png-clipart-postgresql-database-logo-application-software-computer-software-mysql-logo-blue-text.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <br> 
+<br>
+<br>
+<br>
+<br>
 <span >
 <h3>📫  How to reach me</h3>
 <a href="https://www.linkedin.com/in/carlos-martin-juncos/" ><img width="5%" src="https://w7.pngwing.com/pngs/511/605/png-transparent-in-logo-linkedin-diduco-ab-icon-linkedin-blue-angle-text-thumbnail.png"> &nbsp;

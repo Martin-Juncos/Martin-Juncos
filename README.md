@@ -1,11 +1,14 @@
-### Hi, my name es Martin... 👋
+<h1> Hi, my name es Martin... 👋 </h1>
+
 ![helloworld](https://user-images.githubusercontent.com/8354821/157750321-439f165c-d42d-4f22-b54d-1f4014ca0186.gif)
 
-
+<h3>💻 Sobre tecnologias e afins... 🐍 🌐 👩‍💻</h3>
 <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="40" src="https://w1.pngwing.com/pngs/885/534/png-transparent-green-grass-nodejs-javascript-react-mean-angularjs-logo-symbol.png"></code>
+<code><img height="40" src="http://assets.stickpng.com/thumbs/58482ee4cef1014c0b5e4a75.png"></code>
 <code><img height="40" src="https://e7.pngegg.com/pngimages/738/738/png-clipart-postgresql-database-logo-application-software-computer-software-mysql-logo-blue-text.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 

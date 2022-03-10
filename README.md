@@ -8,8 +8,12 @@
 <h3>🤓 My projet..</h3>
 
 <span >
-  <h5>Pokemons</h5>
+<h4>Pokemons</h4>
 <a href="https://github.com/martinjuncos/PI-Pokemon.git" ><img width="300px" height="170px" src="https://wallpaperaccess.com/full/697708.jpg">
+<h4>Dogs</h4>
+<a href="https://github.com/martinjuncos/DOG-s.git" ><img width="300px" height="170px" src="https://st4.depositphotos.com/15754244/20856/i/1600/depositphotos_208565738-stock-photo-group-of-dogs-on-white.jpg">
+  <h4>Coutries</h4>
+<a href="https://github.com/martinjuncos/COUNTRIES.git" ><img width="300px" height="170px" src="https://files.123freevectors.com/wp-content/uploads/new/map/054-free-vector-world-map-countries-word-cloud.jpg">
 </span>
 
 <br/>
@@ -21,13 +25,15 @@
 <code><img height="35" src="https://w1.pngwing.com/pngs/885/534/png-transparent-green-grass-nodejs-javascript-react-mean-angularjs-logo-symbol.png"></code>
 <code><img height="35" src="https://e7.pngegg.com/pngimages/738/738/png-clipart-postgresql-database-logo-application-software-computer-software-mysql-logo-blue-text.png"></code>
 <br/>
-<h3>📫  How to reach me</h3>
+
+  <p>
+  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=martinjuncos&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
+ <p>
+   
+   <h3>📫  How to reach me</h3>
 <span >
 <a href="https://www.linkedin.com/in/carlos-martin-juncos/" ><img width="5%" src="https://w7.pngwing.com/pngs/511/605/png-transparent-in-logo-linkedin-diduco-ab-icon-linkedin-blue-angle-text-thumbnail.png"> &nbsp;
 <a href="mailto:prof.mcjuncos@gmail.com" ><img width="5%" src="https://w7.pngwing.com/pngs/877/133/png-transparent-google-mail-logo-gmail-computer-icons-logo-email-gmail-angle-text-rectangle-thumbnail.png">
 </span>
   <br/> 
-  <p>
-  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=martinjuncos&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
- <p>
  

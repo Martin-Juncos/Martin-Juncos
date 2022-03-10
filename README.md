@@ -7,7 +7,7 @@
 <br/>
 <h3>🤓 My projet..</h3>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=martinjuncos&repo=github-readme-stats)](https://github.com/martinjuncos/PI-Pokemon.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=martinjuncos&repo=Pokemons)](https://github.com/martinjuncos/PI-Pokemon.git)
 
 <br/>
 <h3>🧠 I Know / Use</h3>

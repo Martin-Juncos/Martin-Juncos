@@ -9,7 +9,7 @@
 
 <span >
   <h5>Pokemons</h5>
-<a href="https://github.com/martinjuncos/PI-Pokemon.git" ><img width="490" height="165" src="https://wallpaperaccess.com/full/697708.jpg">
+<a href="https://github.com/martinjuncos/PI-Pokemon.git" ><img width="300px" height="170px" src="https://wallpaperaccess.com/full/697708.jpg">
 </span>
 
 <br/>

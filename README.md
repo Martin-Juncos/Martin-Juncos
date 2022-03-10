@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p>
+  <h1>Pokemons</h1>
+  <a><img width=200px" height="130px" src="https://images.alphacoders.com/103/thumb-1920-1039414.png"></a>
+  <a><img  width=200px" height="130px" src="https://images.freecreatives.com/wp-content/uploads/2016/03/Stunning-Pokemon-background-Wallpapers.jpg"></a>
+</p>
 <span >
 <a href="https://www.linkedin.com/in/carlos-martin-juncos/" ><img width="5%" src="https://w7.pngwing.com/pngs/511/605/png-transparent-in-logo-linkedin-diduco-ab-icon-linkedin-blue-angle-text-thumbnail.png"> &nbsp;
 <a href="mailto:prof.mcjuncos@gmail.com" ><img width="5%" src="https://w7.pngwing.com/pngs/877/133/png-transparent-google-mail-logo-gmail-computer-icons-logo-email-gmail-angle-text-rectangle-thumbnail.png">

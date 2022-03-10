@@ -4,9 +4,8 @@
 
 <h3>💬 About me..</h3>
 <p>For some years, as coordinator of the Software Technician, I got involved in the projects of my professors, this opened the wonderful world of Development, Professor of Technology and Computer Science, specialist in Higher Education and ICT, self-taught and eager to learn always new technologies, curious, responsible and with a lot of initiative, who always seeks to nurture himself personally and professionally. In this new paradigm you have to be prepared for this challenge, that is my motto.</p>
-<br/>
-<h3>🤓 My projet..</h3>
 
+<h3>🤓 My projet..</h3>
 <span >
 <h4>Pokemons</h4>
 <a href="https://github.com/martinjuncos/PI-Pokemon.git" ><img  width="200px" height="80px" src="https://wallpaperaccess.com/full/697708.jpg">

@@ -7,6 +7,11 @@
 <br/>
 <h3>🤓 My projet..</h3>
 
+<span >
+  <h5>Pokemons</h5>
+<a href="https://github.com/martinjuncos/PI-Pokemon.git" ><img width="5%" src="https://wallpaperaccess.com/full/697708.jpg">
+</span>
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=martinjuncos&repo=Pokemons)](https://github.com/martinjuncos/PI-Pokemon.git)
 
 <br/>
@@ -18,8 +23,8 @@
 <code><img height="35" src="https://w1.pngwing.com/pngs/885/534/png-transparent-green-grass-nodejs-javascript-react-mean-angularjs-logo-symbol.png"></code>
 <code><img height="35" src="https://e7.pngegg.com/pngimages/738/738/png-clipart-postgresql-database-logo-application-software-computer-software-mysql-logo-blue-text.png"></code>
 <br/>
-<span >
 <h3>📫  How to reach me</h3>
+<span >
 <a href="https://www.linkedin.com/in/carlos-martin-juncos/" ><img width="5%" src="https://w7.pngwing.com/pngs/511/605/png-transparent-in-logo-linkedin-diduco-ab-icon-linkedin-blue-angle-text-thumbnail.png"> &nbsp;
 <a href="mailto:prof.mcjuncos@gmail.com" ><img width="5%" src="https://w7.pngwing.com/pngs/877/133/png-transparent-google-mail-logo-gmail-computer-icons-logo-email-gmail-angle-text-rectangle-thumbnail.png">
 </span>

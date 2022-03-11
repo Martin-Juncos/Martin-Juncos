@@ -30,4 +30,6 @@
 <a href="mailto:prof.mcjuncos@gmail.com" ><img width="5%" src="https://w7.pngwing.com/pngs/877/133/png-transparent-google-mail-logo-gmail-computer-icons-logo-email-gmail-angle-text-rectangle-thumbnail.png">
 </span>
 <h3>📫 Resume...</h3>
-<p>see documentation [JUNCOS CARLOS_CV_Developer Web Full Stack.pdf](https://github.com/martinjuncos/martinjuncos/files/8233948/JUNCOS.CARLOS_CV_Developer.Web.Full.Stack.pdf)</p>
+ <span>
+<a href="mailto:prof.mcjuncos@gmail.com" ><img width="5%" src="https://w7.pngwing.com/pngs/244/976/png-transparent-arrow-button-computer-icons-ms-word-resume-blue-text-presentation-thumbnail.png">
+ </span>

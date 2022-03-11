@@ -30,4 +30,4 @@
 <a href="mailto:prof.mcjuncos@gmail.com" ><img width="5%" src="https://w7.pngwing.com/pngs/877/133/png-transparent-google-mail-logo-gmail-computer-icons-logo-email-gmail-angle-text-rectangle-thumbnail.png">
 </span>
   ## docs for mysweetlib2
-see documentation [here](../myLib2/README.md)
+see documentation [JUNCOS CARLOS_CV_Developer Web Full Stack.pdf](https://github.com/martinjuncos/martinjuncos/files/8233948/JUNCOS.CARLOS_CV_Developer.Web.Full.Stack.pdf)

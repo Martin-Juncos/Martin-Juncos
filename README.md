@@ -28,5 +28,6 @@
 <span >
 <a href="https://www.linkedin.com/in/carlos-martin-juncos/" ><img width="5%" src="https://w7.pngwing.com/pngs/511/605/png-transparent-in-logo-linkedin-diduco-ab-icon-linkedin-blue-angle-text-thumbnail.png"> &nbsp;
 <a href="mailto:prof.mcjuncos@gmail.com" ><img width="5%" src="https://w7.pngwing.com/pngs/877/133/png-transparent-google-mail-logo-gmail-computer-icons-logo-email-gmail-angle-text-rectangle-thumbnail.png">
-  <a href="[JUNCOS CARLOS_CV_Developer Web Full Stack.pdf](https://github.com/martinjuncos/martinjuncos/files/8233948/JUNCOS.CARLOS_CV_Developer.Web.Full.Stack.pdf)" ><img width="5%" src="https://w7.pngwing.com/pngs/244/976/png-transparent-arrow-button-computer-icons-ms-word-resume-blue-text-presentation-thumbnail.png">
 </span>
+  ## docs for mysweetlib2
+see documentation [here](../myLib2/README.md)

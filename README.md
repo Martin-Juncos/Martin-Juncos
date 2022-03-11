@@ -31,5 +31,5 @@
 </span>
 <h3>📫 Resume...</h3>
  <span>
-<a href="mailto:prof.mcjuncos@gmail.com" ><img width="5%" src="https://w7.pngwing.com/pngs/244/976/png-transparent-arrow-button-computer-icons-ms-word-resume-blue-text-presentation-thumbnail.png">
+<a href="https://github.com/martinjuncos/martinjuncos/issues/3#issue-1166669998" ><img width="5%" src="https://w7.pngwing.com/pngs/244/976/png-transparent-arrow-button-computer-icons-ms-word-resume-blue-text-presentation-thumbnail.png">
  </span>

@@ -35,5 +35,5 @@
     <h4>Curruculum Vitae Prof Martin Juncos 📋</h4>
     <h5>Descargar 👇</h5>
  <span>
-<a href="[https://github.com/martinjuncos/martinjuncos/issues/3#issue-1166669998](https://github.com/user-attachments/files/16419491/CV_FullStack_Martin.Juncos.pdf)" ><img width="5%" src="https://w7.pngwing.com/pngs/244/976/png-transparent-arrow-button-computer-icons-ms-word-resume-blue-text-presentation-thumbnail.png">
+<a href="https://github.com/user-attachments/files/16419491/CV_FullStack_Martin.Juncos.pdf" ><img width="5%" src="https://w7.pngwing.com/pngs/244/976/png-transparent-arrow-button-computer-icons-ms-word-resume-blue-text-presentation-thumbnail.png">
  </span>
